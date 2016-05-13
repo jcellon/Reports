@@ -1,0 +1,61 @@
+﻿    body
+    {
+        font-family: Arial;
+        font-size: 10pt;
+    }
+    .GridPager a, .GridPager span
+    {
+        display: block;
+        height: 21px;
+        width: 25px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+    }
+    .GridPager a
+    {
+        background-color: #4e5d6c;
+        color: #969696;
+        border: 2px solid #969696;
+    }
+    .GridPager span
+    {
+        background-color: #A1DCF2;
+        color: #000;
+        border: 2px solid #3AC0F2;
+    }
+    .Gridview th {
+    background-color: #CCCCCC;
+    padding: 3px 8px 3px 8px;
+    text-align: left;
+    color: #3399FF;
+    font-size: 11px;
+    border-style: solid;
+    border-width: 1px;
+    }
+    .Gridview td {
+    padding: 3px 8px 3px 8px;
+    text-align: left;
+    font-size: 11px;
+    border-style: solid;
+    border-width: 1px;
+    vertical-align: top; /*Align table data to top*/
+    }
+
+    .calculator {
+    padding-top: 10px !important;
+    }
+
+    .charges {
+    padding-top: 10px !important;
+    }
+
+    .credits {
+    padding-top: 10px !important;
+    }
+
+     /*ForeColor="#333333" GridLines="None" HorizontalAlign="Center" 
+        VerticalAlign="Middle" Font-Size="12px" CellSpacing="35" ShowFooter="True" CellPadding="35" Width="800px"*/ 
+
+     /*BorderStyle="Solid" Font-Bold="True" Font-Overline="False" BackColor="#CCCCCC"
+                        ForeColor="#3399FF" HorizontalAlign="Center" VerticalAlign="Middle"*/ 
